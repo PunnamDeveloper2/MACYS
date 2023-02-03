@@ -1,4 +1,3 @@
 Hello
-<<<<<<< HEAD
 My Name is Developir1
 My city Name is Hyderabad
