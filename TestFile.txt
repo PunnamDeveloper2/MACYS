@@ -1,8 +1,4 @@
 Hello
-<<<<<<< HEAD
 My name is Punnam DEV 2
 This city name is HYD DEV 2
-=======
-My name is Shanthan DEV 1
-This city name is PUNE DEV 1 
->>>>>>> 15b1e585031c2955bc032570b77c35cd6459c89c
+
