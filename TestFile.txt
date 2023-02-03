@@ -1,3 +1,5 @@
 Hi
+<<<<<<< HEAD
 My name is DEV1
-My city name is Hyderabad
+My city name is Bangalore 
+
