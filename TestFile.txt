@@ -1,4 +1,9 @@
 Hello
+<<<<<<< HEAD
 My Name is ShanthanDEV1
 My city Name is VIZ
+=======
+My Name is PunnamDEV
+My city Name is HYD
+>>>>>>> test
 
